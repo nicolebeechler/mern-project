@@ -4,8 +4,6 @@ This repository contains the code for a full-stack MERN project that is conditio
 * Server-side ----> PORT:8000
 * Client-side ----> PORT:3000
 
-Live Project Link: [origamigrill.nicolebeechler.me](https://origamigrill.nicolebeechler.me)
-
 ## About: 
 
 A simple e-commerce website.
@@ -57,13 +55,14 @@ $ node config/seed.js
 - MongoDB/Mongoose
 - Express
 - React
-- Node
+- Node v20
 - Bcrypt - Password Hashing
 - JSON Web Token - Authentication
 - [big-poppa-code-react-starter-kit](https://www.npmjs.com/package/big-poppa-code-react-starter-kit?activeTab=readme)
 
 ## Deployment:
 - DigitalOcean - Cloud Server
-- Nginx - Web Server with SSL Certificate
+- Nginx - Web Server 
+- Certbot - SSL Certificate
 - PM2 - Process manager for Node.js
 - NameCheap - Domain
