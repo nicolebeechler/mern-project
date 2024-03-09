@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Ojuju:wght@200..800&display=swap');
+
 .Logo {
     height: 12vmin;
     width: 12vmin;
@@ -9,5 +11,15 @@
     background-color: var(--orange);
     color: var(--tan-1);
     font-size: 2.7vmin;
-    border: .6vmin solid var(--tan-2);
-    }
+    border: 0.6vmin solid var(--tan-2);
+}
+
+.LogoImage {
+    width: 8vmin;
+    height: 8vmin;
+    filter: brightness(0) invert(1);
+}
+
+.Name {
+    font-family: "Ojuju", sans-serif;
+}

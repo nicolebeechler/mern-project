@@ -9,7 +9,7 @@ function _toPrimitive(input, hint) { if (typeof input !== "object" || input === 
 class Test {
   constructor() {
     _defineProperty(this, "main", () => {
-      console.log('Test');
+      console.log('Console Test');
     });
   }
 }
