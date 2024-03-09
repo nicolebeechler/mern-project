@@ -4,7 +4,7 @@ This repository contains the code for a full-stack MERN project that is conditio
 * Server-side ----> PORT:8000
 * Client-side ----> PORT:3000
 
-Live Project Link: [https://origamigrill.nicolebeechler.me](origamigrill.nicolebeechler.me)
+Live Project Link: [origamigrill.nicolebeechler.me](https://origamigrill.nicolebeechler.me)
 
 ## About: 
 
